@@ -5,4 +5,4 @@ A new Flutter project.
 ## Getting Started
 
 
-![](preview.gif)
+<img src="preview.gif" width="320" height="480" alt="图片描述文字"/>
